@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET\\TranHoangDinh_2120110042\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|d:\\asp.net\\tranhoangdinh_2120110042\\tranhoangdinh_2120110042\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\views\\product\\allproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\views\\product\\allproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\views\\user\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|D:\\ASP.NET\\TranHoangDinh_2120110042\\tranhoangdinh_2120110042\\context\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{14E407D5-0745-4CE1-A49F-45E4D1853F24}|TranHoangDinh_2120110042\\TranHoangDinh_2120110042.csproj|solutionrelative:tranhoangdinh_2120110042\\context\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T12:05:04.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOAAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T15:12:27.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Models\\CartModel.cs",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Models\\CartModel.cs",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Models\\CartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:08:05.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Controllers\\CartController.cs",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Controllers\\CartController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:07:31.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:14:20.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:34:18.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:16:53.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:52:40.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T12:00:53.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAADoBAAAAAAAAAAAewE4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T12:58:38.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\User\\Login.cshtml",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Views\\User\\Login.cshtml",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\User\\Login.cshtml",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Views\\User\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T14:26:49.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T13:29:23.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AllProduct.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\Product\\AllProduct.cshtml",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Views\\Product\\AllProduct.cshtml",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\Product\\AllProduct.cshtml",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Views\\Product\\AllProduct.cshtml",
+              "ViewState": "AQIAABQBAAAAAAAAAAAAABgBAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T13:09:52.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T14:46:23.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-18T12:34:30.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:58:11.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Context\\Model1.edmx",
+              "RelativeDocumentMoniker": "TranHoangDinh_2120110042\\Context\\Model1.edmx",
+              "ToolTip": "D:\\ASP.NET\\TranHoangDinh_2120110042\\TranHoangDinh_2120110042\\Context\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "TranHoangDinh_2120110042\\Context\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-18T12:13:57.584Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
